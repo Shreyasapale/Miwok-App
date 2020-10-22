@@ -10,4 +10,5 @@ This is the app I have developed while doing the Udacity course of [Multiscreen 
     ListView + ArrayAdapter
     Mediaplayer (Adding audio to a view)
     OnItemClickListener (OnClickListener of ListItemView)
+    Activity Lifecycle
     Audio Focus
