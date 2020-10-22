@@ -9,3 +9,4 @@ This is the app I have developed while doing the Udacity course of [Multiscreen 
     OnClickListener
     ListView + ArrayAdapter
     Mediaplayer (Adding audio to a view)
+    OnItemClickListener (OnClickListener of ListItemView)
